@@ -5,10 +5,10 @@ Here I collect all the information found on the Internet (and created myself) ab
 ## Overview of the microcomputers I once owned
 
 * Elektuur SC/MP II (built).
-* Motorola MEK600D2 Kit (build/bought).
-* SWTPc 680x microcmputer (build/bought).
-* Elektuur Junior 6809 microcomputer (build).
-* Radio Bulletin Robby 6809 microcomputer (build).
+* Motorola MEK600D2 Kit (Kit).
+* SWTPc 6800 microcmputer (Kit).
+* Elektuur Junior 6809 microcomputer (built).
+* Radio Bulletin Robby 6809 microcomputer (built).
 * Commodore PET microcomputer.
 * NorthStar Horizon S-100 bus microcomputer.
 * NorthStar Advantage microcomputer.
