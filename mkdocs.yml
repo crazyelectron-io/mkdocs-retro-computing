@@ -8,7 +8,10 @@ theme:
   logo: assets/crazyelectron-icon-light.png
   favicon: assets/favicon.ico
   features:
-    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
   palette:
     # Dark Mode
     - scheme: slate
@@ -24,6 +27,10 @@ theme:
         name: Light mode
       primary: blue
       accent: deep orange
+
+nav:
+  - Home: index.md
+  - About: about.md
 
 markdown_extensions:
   - attr_list
