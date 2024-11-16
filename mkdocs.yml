@@ -15,6 +15,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
+    
   palette:
     # Dark Mode
     - scheme: slate
