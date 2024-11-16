@@ -1,11 +1,12 @@
-site_name: My MKDocs Material Documentation
-site_url: https://docs.moerman.online
+site_name: Retro Computing documentation site
+site_url: https://crazyelectron.io
 
 theme:
   name: material
   font:
     text: Merriweather Sans
     code: Red Hat Mono
+  language: en
   logo: assets/crazyelectron-icon-light.png
   favicon: assets/favicon.ico
   features:
@@ -15,7 +16,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    
+
   palette:
     # Dark Mode
     - scheme: slate
@@ -60,4 +61,4 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 
-copyright: Copyright &copy; 2024 Ron Moerman
+copyright: Copyright &copy; 2024 Ron Moerman, All rights reserved.
