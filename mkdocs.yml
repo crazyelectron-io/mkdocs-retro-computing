@@ -16,6 +16,8 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
+    - navigation.expand
+    - navigation.footer
 
   palette:
     # Dark Mode
@@ -62,3 +64,6 @@ markdown_extensions:
   - pymdownx.details
 
 copyright: Copyright &copy; 2024 Ron Moerman, All rights reserved.
+
+extra:
+  generator: false
