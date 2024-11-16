@@ -1,5 +1,6 @@
 site_name: My MKDocs Material Documentation
 site_url: https://docs.moerman.online
+
 theme:
   name: material
   font:
@@ -35,7 +36,7 @@ nav:
   - About: about.md
   - MEK6800D2:
     - Overview: MEK6800D2/index.md
-    
+
 
 markdown_extensions:
   - attr_list
