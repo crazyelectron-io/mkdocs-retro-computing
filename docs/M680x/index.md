@@ -3,12 +3,12 @@
 Motorola introduced the MC6800 8-bit processor in 1974.
 It's instruction set was simple and clean - inspired by the PDP-8 - and it came with a family of associated memory and I/O devices which made it easy to build a complete system.
 
-[Motorola MC6800 MPU](assets/MC6800MPU.jpg)
+![Motorola MC6800 MPU](assets/MC6800MPU.jpg)
 
 It was also the first microprocessor that could run on a single +5V power supply which greatly simplified the design of a complete system.
 The 6800 was clocked at 1 MHz and later version could run at 2 MHz.
 
-The next 8-bit microprocessor introduced by Motorol was the MC6809, a much enhanced MPU with a richer instruction set and several 16-bit instructions.
+The next microprocessor introduced by Motorola was the MC6809, a much enhanced MPU with a richer instruction set and even several 16-bit instructions.
 
 One key diffence between the Motorola and Intel processors was the I/O addressing.
 The Intel microprocessors used specific I/O ports seperate from regular memory space while the Motorola 680x microprocessers placed I/O devices in the RAM/ROM memory space and therefor needed no seperate I/O instructions.
