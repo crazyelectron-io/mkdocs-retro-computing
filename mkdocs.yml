@@ -37,10 +37,8 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - MEK6800D2:
-    - Overview: MEK6800D2/index.md
-
+  - Motorola 680x:
+    - Overview: M680x/index.md
 
 markdown_extensions:
   - attr_list
