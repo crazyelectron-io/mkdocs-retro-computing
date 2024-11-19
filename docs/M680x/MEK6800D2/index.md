@@ -1,6 +1,6 @@
 # Motorola MEK6800D2 Evaluation Kit II
 After having played around with the Elektuur SC/MP II for a while, I was ready for a next step and bought a kit based on the MC6800, consisting of all the parts which had to be soldered on the provided PCB's.
-Back then I was a teenager, so I had to safe up for buying this computer which costed the equivalent of around $ 350-400 if I remember correctly.
+Back then I was a teenager, so I had to save up for buying this computer which costed the equivalent of around $ 350-400 if I remember correctly.
 
 The MEK6800D2 was a development board for the Motorola 6800 microprocessor.
 It featured a separate keyboard with hexadecimal keys and a 6-digit LED display, but also featured an RS-232 asynchronous serial interface for a Teletype or other terminal.

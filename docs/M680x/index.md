@@ -1,11 +1,12 @@
 # Motorola MC680x microprocessor family
 
-Motorola introduced the MC6800 8-bit processor in 1974.
+Motorola introduced the MC6800 8-bit processor in 1974, in competition with Intel's 8080.
 It's instruction set was simple and clean - inspired by the PDP-8 - and it came with a family of associated memory and I/O devices which made it easy to build a complete computer system.
 
 ![Motorola MC6800 MPU](assets/MC6800MPU.jpg)
 
 It was also the first microprocessor that could run on a single +5V power supply which greatly simplified the design of a complete system.
+Other microprocessors of these early days required -5V, +5V and +12V supplies because of the NMOS technology, but Motorola added a buitin voltage inverter and doubler.
 The 6800 was clocked at 1 MHz while an improved version could run at 2 MHz.
 This interesting [Wikipedia](https://en.wikipedia.org/wiki/Motorola_6800){:target="_blank"} article describes the history of Motorola and how the 6800 was eventually created.
 
